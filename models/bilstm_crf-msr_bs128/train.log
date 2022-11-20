@@ -1,0 +1,12 @@
+2022-11-20 15:46:55,986:INFO: device: cuda:0
+2022-11-20 15:47:02,040:INFO: -------- training data process DONE!--------
+2022-11-20 15:47:02,472:INFO: -------- test data process DONE!--------
+2022-11-20 15:47:02,481:INFO: -------- samples data process DONE!--------
+2022-11-20 15:47:02,488:INFO: -------- Vocabulary Loaded! --------
+2022-11-20 15:47:06,451:INFO: -------- Process Done! --------
+2022-11-20 15:47:06,914:INFO: -------- Process Done! --------
+2022-11-20 15:47:09,879:INFO: -------- Process Done! --------
+2022-11-20 15:47:09,896:INFO: --------Load model from /home/gzb22/code/homework/aip-project/cws/bilstm_crf/../../models/bilstm_crf-msr_bs128/model_5.pth--------
+2022-11-20 15:47:25,470:INFO: --------Bad Cases reserved !--------
+2022-11-20 15:47:25,696:INFO: Eval time: 15.800s
+2022-11-20 15:47:25,697:INFO: final test loss: 531.97, f1 score: 96.61, precision:96.74, recall: 96.47
